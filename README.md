@@ -1,4 +1,4 @@
-# Machin Learning Forex Project
+# :star::star::star::star::star:Machin Learning Forex Project
 ## Predict-Stock-Prices
 
 Machine Learning Project for Brent Oil Forecasting and Linear Regression on the delta between implied and actual volatility.
